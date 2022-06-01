@@ -7,6 +7,8 @@ public class gitreview01 {
 		System.out.print("today we learn github");
 		System.out.print("today is a very good dAY");
 		
+		System.out.println("today is a very good dAY");
+		
 	}
 
 }
